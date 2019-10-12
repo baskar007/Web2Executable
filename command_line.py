@@ -47,7 +47,8 @@ from utils import get_data_path, get_data_file_path
 from util_classes import Setting, FileTree
 
 from image_utils.pycns import save_icns
-from pepy.pe import PEFile
+#from pepy.pe import PEFile
+import pefile
 
 from semantic_version import Version
 
