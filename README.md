@@ -14,12 +14,6 @@ If you have an idea for a feature, please create a new issue with a format like 
 
 On the other hand, if you have any annoyances with the application and want to contribute to making it better for everyone, please file an issue with "Annoyance:" as the first part of the title. Sometimes it's hard to know what is annoying for people and input is much appreciated :)
 
-What About Electron?
---------------------
-
-If you want to export using Electron instead of NW.js, try [Electrify](https://github.com/jyapayne/Electrify), my other app based on Web2Executable.
-
-
 Who's Using It?
 ---------------
 
@@ -64,17 +58,6 @@ Planned New Features
 
 Getting Started
 ---------------
-
-### Using Prebuilt Binaries
-
-When using the prebuilt binaries for Windows, Mac, or Ubuntu, there are NO dependencies or extra applications needed. Simply download Web2Exe for the platform of your choice, extract, and double click the app/exe/binary to start. This applies to both the command-line version and the GUI version.
-
-**NOTE!**: Some people report needing the Microsoft Visual C++ 2008/2010 SP1 and regular Redistributable package. I don't have a machine to test this, but just know that you might need the package if the application won't open or spits out the following error:
-
-```
-Error: The application has failed to start because the side by side configuration is incorrect please see the application event log or use the command line sxstrace.exe tool for more detail.
-```
-
 
 ### Building from Source
 
